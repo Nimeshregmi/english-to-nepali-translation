@@ -83,7 +83,7 @@
 You can clone this repository by running the following command:
 
 ```bash
-git clone https://github.com/Puzan789/Language_translation_End_to_End
+git clone https://github.com/Nimeshregmi/english-to-nepali-translation
 ```
 
 ### 2. Install Dependencies
@@ -99,7 +99,7 @@ pip install -r requirements.txt
 Make sure to update your `config.yaml` file with the correct `SOURCE_URL`. This file can be found in the `config/` directory:
 
 ```yaml
-SOURCE_URL: <your_data_source_url> #EXAMPLE:https://github.com/Puzan789/Datas/raw/refs/heads/main/translatordata.zip
+SOURCE_URL: <your_data_source_url> 
 ```
 
 **Note**:  
