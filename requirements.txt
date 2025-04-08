@@ -1,0 +1,8 @@
+torch
+PyYAML
+python-box
+ensure
+-e .
+tensorboard
+nltk
+fastapi[standard]

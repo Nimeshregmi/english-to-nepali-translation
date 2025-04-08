@@ -1,0 +1,18 @@
+**/__pycache__/
+/venv/
+artifacts/
+
+# Ignore logs directories in any location
+logs/
+/logs/*
+**/logs/
+/**/logs/*
+
+*egg-info/
+/logic.md
+/jwtoauth.md
+/logs/
+/myreadme.md
+/exreadme.md
+/seen.md
+.qodo
